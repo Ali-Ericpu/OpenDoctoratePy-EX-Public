@@ -117,11 +117,11 @@
   "version": {
     "android": {
       "clientVersion": "2.7.01",
-      "resVersion": "26-02-12-13-45-20_d44b0c"
+      "resVersion": "26-02-22-09-11-16_f55583"
     },
     "windows": {
-      "clientVersion":"2.7.01",
-      "resVersion":"26-02-06-13-36-34_a73b7c"
+      "clientVersion": "2.7.01",
+      "resVersion": "26-02-06-13-36-34_a73b7c"
     }
   },
   "versionGlobal": {
