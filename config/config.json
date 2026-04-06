@@ -116,8 +116,8 @@
   },
   "version": {
     "android": {
-      "clientVersion": "2.7.11",
-      "resVersion": "26-03-31-05-42-28_7d7f67"
+      "clientVersion": "2.7.21",
+      "resVersion": "26-04-03-04-44-31_c79db9"
     },
     "windows": {
       "clientVersion": "2.7.01",
